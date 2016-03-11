@@ -150,7 +150,7 @@
    * [插件控制器](plugin/controller.md)
    * [插件数据库模型](plugin/model.md)
    * [插件后台管理控制器](plugin/admin_controller.md)
-   * [插件多语言](cha_jian_duo_yu_yan.md)
+   * 插件多语言
 * [后台管理](admin.md)
    * [SMTP配置](admin/smtp.md)
    * [忘记后台密码？](admin/forgot_admin_pw.md)
